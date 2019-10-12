@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24673" started-at="2019-10-12T15:07:47 IST" finished-at="2019-10-12T15:08:11 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24673" started-at="2019-10-12T15:07:47 IST" finished-at="2019-10-12T15:08:11 IST">
+      <class name="Acme.Acme.AceVendorSearch">
+        <test-method status="PASS" signature="aceVendor()[pri:0, instance:Acme.Acme.AceVendorSearch@5a1c0542]" name="aceVendor" duration-ms="24472" started-at="2019-10-12T15:07:47 IST" finished-at="2019-10-12T15:08:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aceVendor -->
+      </class> <!-- Acme.Acme.AceVendorSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
